@@ -52,8 +52,9 @@ h5{
     color: rgb(139, 104, 58);
 }
 
-@media(max-width:390px){
+@media(max-width:200px){
     .pets{
         flex-wrap: wrap;
     }
+
 }
