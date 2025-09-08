@@ -52,11 +52,12 @@ h5{
     color: rgb(139, 104, 58);
 }
 
-@media(max-width:720px){
+@media screen and (max-width:720px) and (orientation: portrait) {
     .pets{
         flex-wrap: wrap;
     }
 
 }
+
 
 
