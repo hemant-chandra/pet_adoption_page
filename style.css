@@ -9,7 +9,7 @@
 }
 
 .card:hover {
-    transform: translate(0, -10px);
+    transform: translate(0, -3px);
     box-shadow: 10px 10px 20px black;
 }
 
@@ -58,6 +58,7 @@ h5{
     }
 
 }
+
 
 
 
