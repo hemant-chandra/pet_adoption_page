@@ -33,6 +33,7 @@ h1{
 .pets{
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 body{
@@ -58,6 +59,7 @@ h5{
     }
 
 }
+
 
 
 
