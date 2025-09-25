@@ -42,18 +42,6 @@
     padding-top: 20px;
 }
 
-.cart {
-    width: 50px;
-    height: 40px;
-    position: absolute;
-    right: 30px;
-    background-color: rgb(255, 76, 0);
-    text-align: center;
-    border-radius: 10px;
-    color: white;
-    font-size: 20px;
-}
-
 .card{
     width: 400px;
     border: 2px solid black;
@@ -115,6 +103,7 @@ h5{
     }
 
 }
+
 
 
 
